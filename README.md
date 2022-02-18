@@ -52,8 +52,8 @@ Execute the program:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](screen1)
+![App Screenshot](screen2)
 
 
 ## Usage/Examples
