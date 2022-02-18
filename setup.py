@@ -8,5 +8,5 @@ setup(
     license='MIT',
     author='Luca Pedersoli',
     author_email='luca.pedersoli@mail.polimi.it',
-    description='A trading algorithm that helps the trader to predict and analyze past trends'
+    description='A trading algorithm that helps the trader to predict and analyze past and future trends'
 )
