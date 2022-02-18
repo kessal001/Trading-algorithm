@@ -52,8 +52,8 @@ Execute the program:
 
 ## Screenshots
 
-![App Screenshot](screen1)
-![App Screenshot](screen2)
+![App Screenshot](https://github.com/gracida001/Trading-algorithm/blob/main/screen1.PNG)
+![App Screenshot](https://github.com/gracida001/Trading-algorithm/blob/main/screen2.PNG)
 
 
 ## Usage/Examples
