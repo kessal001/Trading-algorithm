@@ -28,12 +28,12 @@ A trading algorithm that helps the trader to predict and analyze past and future
 Clone the repository on the local machine:
 
 ```bash
-  $ git clone https://github.com/gracida001/Trading-algorithm.git
+  $ git clone https://github.com/kessal001/Trading-algorithm.git
 ```
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Trading-algorithm
 ```
 Install all the packages:
 ```bash
@@ -52,8 +52,8 @@ Execute the program:
 
 ## Screenshots
 
-![App Screenshot](https://github.com/gracida001/Trading-algorithm/blob/main/screen1.PNG)
-![App Screenshot](https://github.com/gracida001/Trading-algorithm/blob/main/screen2.PNG)
+![App Screenshot](https://github.com/kessal001/Trading-algorithm/blob/main/screen1.PNG)
+![App Screenshot](https://github.com/kessal001/Trading-algorithm/blob/main/screen2.PNG)
 
 
 ## Usage/Examples
